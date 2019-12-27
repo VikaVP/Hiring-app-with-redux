@@ -1,0 +1,170 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.jumbotron {
+  background-image: url(assets/jumbotron-bg.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+  text-align: center;
+  position: relative;
+  margin-top: -75px;
+  margin-left: -46px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, .7);
+  z-index: -999;
+}
+
+.greeting {
+  color: white;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: -130px;
+  font-family: 'Zhi Mang Xing', cursive;
+  font-size: 40px;
+  font-weight: 300;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, .7);
+}
+
+.jumbotron::after {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+  position: absolute;
+  bottom: 0;
+}
+
+.background {
+  background-image: url(assets/project3.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+  text-align: center;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, .7);
+}
+.intro {
+  color: white;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: -300px;
+  font-family: 'Zhi Mang Xing', cursive;
+  font-size: 40px;
+  font-weight: 300;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, .7);
+}
+.background::after {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, .3));
+
+}
+
+.row{
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+  text-align: center;
+  position: relative;
+  margin-top: 50px;
+}
+
+.footer{
+  width: 100%;
+  text-align: center;
+  padding-top: 20px;
+  text-size-adjust: 10px;
+  color: white;
+  background-color: black;
+  position: fixed;
+  left: 0 ;
+  bottom: 0;
+}
+
+.card {
+  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

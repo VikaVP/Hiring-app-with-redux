@@ -1,0 +1,21 @@
+.field-container
+  {text-align: left}
+
+span
+    {display: none}
+
+.field-container.error
+  ::before
+    {content: 'x';
+    display: inline-block;
+    float: right;
+    margin-top: 10px;
+    font-weight: 600;
+    color: #ca3938}
+span
+    {display: inline-block;
+    font-size: 12px;
+    text-align: left;
+    width: 100%;
+    font-style: italic;
+    color: #ca3938}
