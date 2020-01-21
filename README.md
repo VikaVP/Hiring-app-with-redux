@@ -1,69 +1,146 @@
-# Hiring-app-with-redux
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!--
+*** Thanks for checking out this README Template. If you have a suggestion that would
+*** make this better, please fork the repo and create a pull request or simply open
+*** an issue with the tag "enhancement".
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-## Available Scripts
 
-In the project directory, you can run:
+<br />
+<p align="center">
 
-### `npm start`
+  <h3 align="center">Hiring Channel App with Redux</h3>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <p align="center">
+    <br />
+    <a href="https://github.com/VikaVP/Hiring-app-with-redux"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/VikaVP/Hiring-app-with-redux">View Demo</a>
+    ·
+    <a href="https://github.com/VikaVP/Hiring-app-with-redux/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/VikaVP/Hiring-app-with-redux/issues">Request Feature</a>
+  </p>
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-### `npm run build`
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Roadmap](#roadmap)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+This project is a project for the frontend developer side for the hiring channel website that was previously created by the backend and database side.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Built With
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [React JS](https://reactjs.org/docs/getting-started.html)
+* [Bootstrap](https://react-bootstrap.github.io/)
+* [Redux-promise](https://www.npmjs.com/package/redux-promise)
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+<!-- GETTING STARTED -->
+## Getting Started
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Prerequisites
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+```sh
+npm install npm@latest -g
+```
 
-### Code Splitting
+### Installation
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+1. Clone the repo
+```sh
+git clone https://github.com/VikaVP/Hiring-app-with-redux.git
+```
+2. Install NPM packages
+```sh
+npm install
+```
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
+<!-- ROADMAP -->
+## Roadmap
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+See the [open issues](https://github.com/VikaVP/Hiring-app-with-redux/issues) for a list of proposed features (and known issues).
 
-### Advanced Configuration
+<p align='center'>
+  <span>
+      <image width="500" src='./screenshoot/landing.png' />
+      <image width="500" src='./screenshoot/login.png' />
+      <image width="500" src='./screenshoot/login1.png' />
+     
+      
+  </span>
+</p>
+<p align='center'>
+  <span>
+      <image width="500" src='./screenshoot/signup.png' />
+        <image width="500" src='./screenshoot/engineer.png' />
+      <image width="500" src='./screenshoot/companies.png' />
+      
+  </span>
+</p>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+<p align='center'>
+  <span>
+      <image width="500" src='./screenshoot/edit.png' />
+        <image width="500" src='./screenshoot/delete.png' />
+      
+  </span>
+</p>
+<!-- CONTRIBUTING -->
+## Contributing
 
-### Deployment
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+<!-- CONTACT -->
+## Contact
+
+email me - [@vika_vp](vikavp0@gmail.com) - vikavp0@gmail.com
+
+Project Link: [https://github.com/VikaVP/Hiring-app-with-redux](https://github.com/VikaVP/Hiring-app-with-redux)
+
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Pages](https://pages.github.com)
+* [Animate.css](https://daneden.github.io/animate.css)
+* [Loaders.css](https://connoratherton.com/loaders)
+* [Font Awesome](https://fontawesome.com)
+
+
+
+
+
+
