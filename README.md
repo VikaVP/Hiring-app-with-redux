@@ -8,18 +8,18 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Hiring Channel App Frontend</h3>
+  <h3 align="center">Hiring Channel App Frontend with Redux</h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/VikaVP/frontend_hiring_channel"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/VikaVP/Hiring-app-with-redux"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/VikaVP/frontend_hiring_channel">View Demo</a>
+    <a href="https://github.com/VikaVP/Hiring-app-with-redux">View Demo</a>
     ·
-    <a href="https://github.com/VikaVP/frontend_hiring_channel/issues">Report Bug</a>
+    <a href="https://github.com/VikaVP/Hiring-app-with-redux/issues">Report Bug</a>
     ·
-    <a href="https://github.com/VikaVP/frontend_hiring_channel/issues">Request Feature</a>
+    <a href="https://github.com/VikaVP/Hiring-app-with-redux/issues">Request Feature</a>
   </p>
 </p>
 
@@ -50,6 +50,7 @@ This project is a project for the frontend developer side for the hiring channel
 - [React JS](https://reactjs.org/docs/getting-started.html)
 - [Bootstrap](https://react-bootstrap.github.io/)
 - [Axios](https://github.com/axios/axios)
+- [Redux Promise](https://www.npmjs.com/package/redux-promise)
 
 <!-- GETTING STARTED -->
 
@@ -59,7 +60,7 @@ To run Hiring Channel App, follow these steps:
 
 ```
 - open your terminal
-- git clone https://github.com/VikaVP/frontend_hiring_channel.git
+- git clone https://github.com/VikaVP/Hiring-app-with-redux.git
 - cd frontend_hiring_channel
 - npm install
 - cp .env.example .env
@@ -83,7 +84,7 @@ npm install npm@latest -g
 1. Clone the repo
 
 ```sh
-git clone https://github.com/VikaVP/frontend_hiring_channel.git
+git clone https://github.com/VikaVP/Hiring-app-with-redux.git
 ```
 
 2. Install NPM packages
@@ -96,7 +97,7 @@ npm install
 
 ## Roadmap
 
-See the [open issues](https://github.com/VikaVP/frontend_hiring_channel/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/VikaVP/Hiring-app-with-redux/issues) for a list of proposed features (and known issues).
 
 <p align='center'>
   <span>
@@ -141,7 +142,7 @@ Contributions are what make the open source community such an amazing place to b
 
 email me - [@vika_vp](vikavp0@gmail.com) - vikavp0@gmail.com
 
-Project Link: [https://github.com/VikaVP/frontend_hiring_channel](https://github.com/VikaVP/frontend_hiring_channel)
+Project Link: [https://github.com/VikaVP/Hiring-app-with-redux](https://github.com/VikaVP/Hiring-app-with-redux)
 
 <!-- ACKNOWLEDGEMENTS -->
 
