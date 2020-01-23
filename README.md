@@ -43,7 +43,7 @@
 
 ## About The Project
 
-This project is a project for the frontend developer side for the hiring channel website that was previously created by the backend and database side.
+Hiring channel app project is a website where the target users are engineers or developers who are looking for work so they can create an account and branding there to get the attention of companies that need new developers. And companies can register to become recruiters to look at the list of developers who fit the company's needs.
 
 ### Built With
 
@@ -105,29 +105,17 @@ See the [open issues](https://github.com/VikaVP/Hiring-app-with-redux/issues) fo
 
 <p align='center'>
   <span>
-      <image width="500" src='./screenshoot/landing.png' />
-      <image width="500" src='./screenshoot/login.png' />
-      <image width="500" src='./screenshoot/login1.png' />
-     
-      
+      <image width="300" src='./screenshoot/landing.png' />
+      <image width="300" src='./screenshoot/login.png' />  
   </span>
 </p>
 <p align='center'>
   <span>
-      <image width="500" src='./screenshoot/signup.png' />
-        <image width="500" src='./screenshoot/engineer.png' />
-      <image width="500" src='./screenshoot/companies.png' />
-      
+      <image width="300" src='./screenshoot/signup.png' />
+        <image width="300" src='./screenshoot/engineer.png' />
   </span>
 </p>
 
-<p align='center'>
-  <span>
-      <image width="500" src='./screenshoot/edit.png' />
-        <image width="500" src='./screenshoot/delete.png' />
-      
-  </span>
-</p>
 <!-- CONTRIBUTING -->
 
 ## Contributing
